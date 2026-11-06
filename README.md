@@ -84,6 +84,55 @@ Provides a conversational interface for blood availability and donation-related 
 </tr>
 </table>
 
+
+## BloodBot | Application Screenshots
+
+Explore the BloodBot application dashboard and interface.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/dashboard-page-1.png" width="100%" alt="BloodBot dashboard screenshot 1"/>
+      <br/><b>Dashboard View 01</b>
+    </td>
+    <td align="center">
+      <img src="./screenshots/dashboard-page-2.png" width="100%" alt="BloodBot dashboard screenshot 2"/>
+      <br/><b>Dashboard View 02</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/dashboard-page-3.png" width="100%" alt="BloodBot dashboard screenshot 3"/>
+      <br/><b>Dashboard View 03</b>
+    </td>
+    <td align="center">
+      <img src="./screenshots/dashboard-page-4.png" width="100%" alt="BloodBot dashboard screenshot 4"/>
+      <br/><b>Dashboard View 04</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/dashboard-page-5.png" width="100%" alt="BloodBot dashboard screenshot 5"/>
+      <br/><b>Dashboard View 05</b>
+    </td>
+    <td align="center">
+      <img src="./screenshots/dashboard-page-6.png" width="100%" alt="BloodBot dashboard screenshot 6"/>
+      <br/><b>Dashboard View 06</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/dashboard-page-7.png" width="100%" alt="BloodBot dashboard screenshot 7"/>
+      <br/><b>Dashboard View 07</b>
+    </td>
+    <td align="center">
+      <img src="./screenshots/dashboard-page-8.png" width="100%" alt="BloodBot dashboard screenshot 8"/>
+      <br/><b>Dashboard View 08</b>
+    </td>
+  </tr>
+</table>
+
+---
 ## 🏗️ 04. System Architecture
 
 The application follows a layered architecture consisting of three major components.
@@ -329,29 +378,3 @@ Contributions, suggestions, and improvements are welcome!
 
 </div>
 ---
-
-## ?? BloodBot � Dashboard Preview
-
-BloodBot provides an intuitive interface for finding blood donors, checking blood availability, and accessing intelligent donor-matching features.
-
-### ?? Application Screenshots
-
-<table>
-<tr>
-<td width="50%"><img src="screenshots/dashboard-page-1.png" width="100%" alt="BloodBot Dashboard"/></td>
-<td width="50%"><img src="screenshots/dashboard-page-2.png" width="100%" alt="BloodBot Dashboard"/></td>
-</tr>
-<tr>
-<td width="50%"><img src="screenshots/dashboard-page-3.png" width="100%" alt="BloodBot Interface"/></td>
-<td width="50%"><img src="screenshots/dashboard-page-4.png" width="100%" alt="BloodBot Interface"/></td>
-</tr>
-<tr>
-<td width="50%"><img src="screenshots/dashboard-page-5.png" width="100%" alt="BloodBot Interface"/></td>
-<td width="50%"><img src="screenshots/dashboard-page-6.png" width="100%" alt="BloodBot Interface"/></td>
-</tr>
-<tr>
-<td width="50%"><img src="screenshots/dashboard-page-7.png" width="100%" alt="BloodBot Interface"/></td>
-<td width="50%"><img src="screenshots/dashboard-page-8.png" width="100%" alt="BloodBot Interface"/></td>
-</tr>
-</table>
-
