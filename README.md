@@ -328,3 +328,30 @@ Contributions, suggestions, and improvements are welcome!
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:8B0000,50:DC2626,100:FF6B6B&height=110&section=footer" width="100%"/>
 
 </div>
+---
+
+## ?? BloodBot – Dashboard Preview
+
+BloodBot provides an intuitive interface for finding blood donors, checking blood availability, and accessing intelligent donor-matching features.
+
+### ?? Application Screenshots
+
+<table>
+<tr>
+<td width="50%"><img src="screenshots/dashboard-page-1.png" width="100%" alt="BloodBot Dashboard"/></td>
+<td width="50%"><img src="screenshots/dashboard-page-2.png" width="100%" alt="BloodBot Dashboard"/></td>
+</tr>
+<tr>
+<td width="50%"><img src="screenshots/dashboard-page-3.png" width="100%" alt="BloodBot Interface"/></td>
+<td width="50%"><img src="screenshots/dashboard-page-4.png" width="100%" alt="BloodBot Interface"/></td>
+</tr>
+<tr>
+<td width="50%"><img src="screenshots/dashboard-page-5.png" width="100%" alt="BloodBot Interface"/></td>
+<td width="50%"><img src="screenshots/dashboard-page-6.png" width="100%" alt="BloodBot Interface"/></td>
+</tr>
+<tr>
+<td width="50%"><img src="screenshots/dashboard-page-7.png" width="100%" alt="BloodBot Interface"/></td>
+<td width="50%"><img src="screenshots/dashboard-page-8.png" width="100%" alt="BloodBot Interface"/></td>
+</tr>
+</table>
+
